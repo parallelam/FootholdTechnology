@@ -1,0 +1,42 @@
+[
+  {
+    "name": "New intake",
+    "icon": "1.png"
+  },
+  {
+    "name": "Discharge",
+    "icon": "2.png"
+  },
+  {
+    "name": "Check in",
+    "icon": "3.png"
+  },
+  {
+    "name": "Check out",
+    "icon": "4.png"
+  },
+  {
+    "name": "New medication",
+    "icon": "5.png"
+  },
+  {
+    "name": "New treatment plan",
+    "icon": "6.png"
+  },
+  {
+    "name": "New incident",
+    "icon": "7.png"
+  },
+  {
+    "name": "New calendar event",
+    "icon": "8.png"
+  },
+  {
+    "name": "New progress note",
+    "icon": "9.png"
+  },
+  {
+    "name": "New group note",
+    "icon": "10.png"
+  }
+]
